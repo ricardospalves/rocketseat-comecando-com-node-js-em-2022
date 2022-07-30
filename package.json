@@ -1,0 +1,20 @@
+{
+  "name": "rocketseat-comecando-com-node-js-em-2022",
+  "version": "1.0.0",
+  "description": "Video-aula da Rocketseat para ensinando Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardospalves/rocketseat-comecando-com-node-js-em-2022.git"
+  },
+  "keywords": [],
+  "author": "Ricardo Alves <ricardospalves@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardospalves/rocketseat-comecando-com-node-js-em-2022/issues"
+  },
+  "homepage": "https://github.com/ricardospalves/rocketseat-comecando-com-node-js-em-2022#readme"
+}
